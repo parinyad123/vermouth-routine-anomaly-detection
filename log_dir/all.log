@@ -1,0 +1,99 @@
+2023-12-02 12:48:15.970931 | INFO | Connect tm_analysis database success | INFO
+2023-12-02 12:48:15.990697 | INFO | Connect tm_record database success | INFO
+2023-12-02 12:48:16.001876 | INFO | Connect mixer_dw_2021 database success | INFO
+2023-12-02 13:05:22.098478 | WARNING | Feature calculation of VM5VIOSA with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2023-12-02 13:11:11.997414 | WARNING | Feature calculation of TSTRELECA with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2023-12-02 13:13:50.248220 | INFO | Close connection tm_analysis database success | INFO
+2023-12-02 13:13:50.249179 | INFO | Close connection tm_record database success | INFO
+2023-12-02 13:13:50.249337 | INFO | Close connection mixer_dw_2021 database success | INFO
+2023-12-03 05:12:16.917699 | INFO | Connect tm_analysis database success | INFO
+2023-12-03 05:12:16.948795 | INFO | Connect tm_record database success | INFO
+2023-12-03 05:12:16.960093 | INFO | Connect mixer_dw_2021 database success | INFO
+2023-12-03 05:32:43.802345 | WARNING | Feature calculation of TSTRELECA with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2023-12-03 05:34:14.647824 | WARNING | Feature calculation of VM5VIOSA with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2023-12-03 05:37:55.772157 | INFO | Close connection tm_analysis database success | INFO
+2023-12-03 05:37:55.774540 | INFO | Close connection tm_record database success | INFO
+2023-12-03 05:37:55.774700 | INFO | Close connection mixer_dw_2021 database success | INFO
+2023-12-03 16:36:48.232327 | INFO | Connect tm_analysis database success | INFO
+2023-12-03 16:36:48.271417 | INFO | Connect tm_record database success | INFO
+2023-12-03 16:36:48.283067 | INFO | Connect mixer_dw_2021 database success | INFO
+2023-12-03 17:02:42.664146 | INFO | Close connection tm_analysis database success | INFO
+2023-12-03 17:02:42.667386 | INFO | Close connection tm_record database success | INFO
+2023-12-03 17:02:42.667514 | INFO | Close connection mixer_dw_2021 database success | INFO
+2024-01-10 01:00:05.334851 | INFO | Connect tm_analysis database success | INFO
+2024-01-10 01:00:05.357437 | INFO | Connect tm_record database success | INFO
+2024-01-10 01:00:05.368664 | INFO | Connect mixer_dw_2021 database success | INFO
+2024-01-10 01:00:15.634690 | WARNING | The data of TTH30A was not updated in MIXER-II | Not found undated data
+2024-01-10 01:00:39.113578 | WARNING | The data of VSTRM5VA was not updated in MIXER-II | Not found undated data
+2024-01-10 01:00:44.298597 | WARNING | The data of TTH29A was not updated in MIXER-II | Not found undated data
+2024-01-10 01:00:46.887436 | WARNING | The data of TMONTCL12 was not updated in MIXER-II | Not found undated data
+2024-01-10 01:00:51.142112 | WARNING | The data of TMONTCL14 was not updated in MIXER-II | Not found undated data
+2024-01-10 01:01:03.548910 | WARNING | The data of ICSSXPA was not updated in MIXER-II | Not found undated data
+2024-01-10 01:01:03.771150 | WARNING | The data of TIRUAVDTBB_1 was not updated in MIXER-II | Not found undated data
+2024-01-10 01:01:22.270684 | WARNING | The data of VSTRVPELA was not updated in MIXER-II | Not found undated data
+2024-01-10 01:01:29.365808 | WARNING | The data of ICSSYPA was not updated in MIXER-II | Not found undated data
+2024-01-10 01:01:36.682556 | WARNING | The data of TMONTCL6 was not updated in MIXER-II | Not found undated data
+2024-01-10 01:01:51.913006 | WARNING | The data of TMONTCL15 was not updated in MIXER-II | Not found undated data
+2024-01-10 01:01:52.182062 | WARNING | The data of ICSSXNA was not updated in MIXER-II | Not found undated data
+2024-01-10 01:01:54.051740 | WARNING | The data of TIRUAVDTZB_1 was not updated in MIXER-II | Not found undated data
+2024-01-10 01:02:02.799985 | WARNING | The updated data of TMONTCL11 which was updated in MIXER-II is NaN value | The data is Nan
+2024-01-10 01:02:06.324683 | WARNING | Feature calculation of TTH9A with 1D is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:02:09.951810 | WARNING | Feature calculation of TMONQPSKA with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:02:26.081132 | WARNING | Feature calculation of TIPUBARMSA with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:02:27.714082 | WARNING | Feature calculation of TMONTCL1 with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:02:29.661466 | WARNING | Feature calculation of TMONTCL21 with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:02:31.425741 | WARNING | Feature calculation of TIPUMEBTRA with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:02:37.640606 | WARNING | Feature calculation of TTH31A with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:02:39.573305 | WARNING | Feature calculation of TMONTCL23 with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:02:41.254458 | WARNING | Feature calculation of XTRSPASPEA with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:02:45.949712 | WARNING | Feature calculation of TIPUIPUHKA with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:02:47.627088 | WARNING | Feature calculation of VMONQPSKA with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:02:53.153112 | WARNING | Feature calculation of TTH20A with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:02:56.471515 | WARNING | Feature calculation of TMONTCL18 with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:02:58.741093 | WARNING | Feature calculation of TMONTCL7 with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:03:00.305929 | WARNING | Feature calculation of XTANKPRES with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:03:02.000048 | WARNING | Feature calculation of TTH1A with 1D is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:03:05.993218 | WARNING | Feature calculation of ISGA with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:03:09.594544 | WARNING | Feature calculation of TIPUMEBPCA with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:03:27.588587 | WARNING | Feature calculation of TTH22A with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:03:30.730235 | WARNING | Feature calculation of TMONTCL5 with 30MIN is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:03:34.161467 | WARNING | Feature calculation of TMONQPSKB with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:03:35.137950 | WARNING | Feature calculation of TTH16A with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:03:38.398065 | WARNING | Feature calculation of TMONTCL31 with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:03:39.476465 | WARNING | Feature calculation of TVPMA with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:03:42.258932 | WARNING | Feature calculation of ANGULAR_MOMENTUM_RW1 with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-10 01:03:53.318060 | WARNING | Cannot update amount of anomaly points for letest date (There is not new anomaly date) becouse of latest date is no match for anomaly_theos_tth19a_1h_auto_m1 in count anomaly daily process
+2024-01-10 01:03:53.734539 | WARNING | Cannot update amount of anomaly points for letest date (There is not new anomaly date) becouse of latest date is no match for anomaly_theos_tmontcl20_1h_auto_m1 in count anomaly daily process
+2024-01-10 01:03:53.946824 | WARNING | Cannot update amount of anomaly points for letest date (There is not new anomaly date) becouse of latest date is no match for anomaly_theos_tth17a_1h_auto_m1 in count anomaly daily process
+2024-01-10 01:03:54.441059 | INFO | Close connection tm_analysis database success | INFO
+2024-01-10 01:03:54.441359 | INFO | Close connection tm_record database success | INFO
+2024-01-10 01:03:54.441504 | INFO | Close connection mixer_dw_2021 database success | INFO
+2024-01-12 04:59:55.502885 | INFO | Connect tm_analysis database success | INFO
+2024-01-12 04:59:55.516286 | INFO | Connect tm_record database success | INFO
+2024-01-12 04:59:55.527472 | INFO | Connect mixer_dw_2021 database success | INFO
+2024-01-12 04:59:56.331208 | WARNING | The data of TSAPANEL2 was not updated in MIXER-II | Not found undated data
+2024-01-12 04:59:56.538241 | WARNING | The data of V6TXA was not updated in MIXER-II | Not found undated data
+2024-01-12 05:00:00.816504 | WARNING | The data of TMONTCL23 was not updated in MIXER-II | Not found undated data
+2024-01-12 05:00:10.464072 | WARNING | The data of VSTRM5VA was not updated in MIXER-II | Not found undated data
+2024-01-12 05:00:10.977020 | WARNING | The data of RSTRT1QXYA was not updated in MIXER-II | Not found undated data
+2024-01-12 05:00:13.526121 | WARNING | The data of IHTGR2A was not updated in MIXER-II | Not found undated data
+2024-01-12 05:00:13.740065 | WARNING | The data of ICSSYNA was not updated in MIXER-II | Not found undated data
+2024-01-12 05:00:14.805872 | WARNING | The data of VIPUREF2A was not updated in MIXER-II | Not found undated data
+2024-01-12 05:00:20.453092 | WARNING | The data of TIPUM1TS2A was not updated in MIXER-II | Not found undated data
+2024-01-12 05:00:21.779003 | WARNING | The data of TTH16A was not updated in MIXER-II | Not found undated data
+2024-01-12 05:00:23.376554 | WARNING | The data of ISGA was not updated in MIXER-II | Not found undated data
+2024-01-12 05:00:25.121562 | WARNING | The data of TIPUMEBPCA was not updated in MIXER-II | Not found undated data
+2024-01-12 05:00:29.354511 | WARNING | The updated data of TIOCB which was updated in MIXER-II is NaN value | The data is Nan
+2024-01-12 05:00:32.148323 | WARNING | Feature calculation of TMONTCL17 with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-12 05:00:33.723312 | WARNING | Feature calculation of ANGULAR_MOMENTUM_RW1 with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-12 05:00:34.487821 | WARNING | Feature calculation of TMONTCL10 with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-12 05:00:35.548405 | WARNING | Feature calculation of TMONTCL22 with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-12 05:00:36.755983 | WARNING | Feature calculation of TIPUM1BA1A with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-12 05:00:38.574707 | WARNING | Feature calculation of TIPUM1TS1A with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-12 05:00:39.740246 | WARNING | Feature calculation of TTH6A with 30MIN is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-12 05:00:41.619640 | WARNING | Feature calculation of TIPUMAIP2A with 1H is error in create feature process | Error: x and y arrays must have at least 2 entries
+2024-01-12 05:00:42.432621 | WARNING | Cannot update amount of anomaly points for letest date (There is not new anomaly date) becouse of latest date is no match for anomaly_theos_tth15a_1h_auto_m1 in count anomaly daily process
+2024-01-12 05:00:42.473288 | WARNING | Cannot update amount of anomaly points for letest date (There is not new anomaly date) becouse of latest date is no match for anomaly_theos_tmontcl19_1h_auto_m1 in count anomaly daily process
+2024-01-12 05:00:42.547359 | INFO | Close connection tm_analysis database success | INFO
+2024-01-12 05:00:42.547629 | INFO | Close connection tm_record database success | INFO
+2024-01-12 05:00:42.547786 | INFO | Close connection mixer_dw_2021 database success | INFO

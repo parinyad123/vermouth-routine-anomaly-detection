@@ -1,0 +1,178 @@
+['TTH3A', 'TMONTCL3', 'TTH11A', 'TTH4A', 'TTH21A', 'TSAPANEL2', 'TMONTCL11', 'TSAPANEL2', 'TMONTCL4', 'TSAPANEL3', 'TTH17A', 'TMONTCL12', 'TMONTCL5', 'TTH6A', 'TSAPANEL3', 'TMONTCL17', 'TMONTCL6', 'TTH13A', 'TMONTCL7', 'TTH8A', 'TTH9A', 'TMONTCL1', 'TMONTCL21', 'TTH2A', 'TDRUMBFB', 'TMONTCL8', 'TMONTCL13', 'TTH31A', 'TTH10A', 'TTH14A', 'TMONTCL10', 'TTH22A', 'TMONTCL31', 'TMONTCL14', 'TTH15A', 'TMONTCL18', 'TMONTCL15', 'TDRUMONOA', 'TTH23A', 'TTH16A', 'TTH19A', 'VTHREFIOSA', 'TMONTCL19', 'TMONTCL23', 'TTH20A', 'TMONTCL20', 'TTH27A', 'TMONEPCA', 'VTHREFMON', 'V5SURV', 'TMONTCL27', 'TMONLOAD', 'TRXA', 'TMONTCL28', 'TRXA', 'TMONQPSKA', 'TTH29A', 'TMONOFFSET', 'TMONGPSB', 'TTH30A', 'TMONTXA', 'TDRUMBFA', 'TMONQPSKB', 'ISGA', 'ISGA', 'IHTGR1A', 'ISGA', 'TTH7A', 'IHTGR2A', 'TRXB', 'TMONTWTA', 'REFERENCE_WEIGHT', 'TSAPANEL1', 'TSAPANEL1', 'TTH28A', 'TIPUFPARDA', 'TIPUMEBPCA', 'TTH4A', 'TIPUIPUCOA', 'TTH5A', 'VIPUREF3A', 'TTH6A', 'TTH27A', 'VIPUREF4A', 'TIPUM1TS2A', 'TIPUMEBTRA', 'TIPUIPUHKA', 'TIPUPEBPCA', 'TIRUAVDTBB_1', 'TIPUIPUTRA', 'TIPUTUBE3A', 'TIPUPEBTRA', 'TIPUMAIP1A', 'TIPUM2BAFA', 'TIPUM1TS1A', 'TIPUTUBE1A', 'TIPUBARPAA', 'TIPUBARMSA', 'IRU_STATUS_WORD_B', 'VIPUREF5A', 'VIPUREF1A', 'VIPUREF2A', 'VIPUREF6A', 'TIRUAVDTXB_1', 'TIRUAVDTYB_1', 'V6RXA', 'TIMER_GAP_SUP', 'ICSSYNA', 'ICSSYPA', 'ICSSXNA', 'XTANKPRES', 'ICSSXPA', 'TCVSSRAA', 'VANASSRAA', 'VANASSRBA', 'TMONTXA', 'TMONTCL2', 'TDRUMONOB', 'V6TXA', 'TRXB', 'TTH1A', 'TTH5A', 'V5VPMA', 'VTHREFIOSA', 'VTHREFIOCA', 'TMONTCL9', 'VTHREFMON', 'TTH12A', 'TMONTCL16', 'TFETRW1A', 'TFETRW2A', 'TFETRW4A', 'ANGULAR_MOMENTUM_RW1', 'ANGULAR_MOMENTUM_RW2', 'ANGULAR_MOMENTUM_RW3', 'ISGA', 'REFERENCE_WEIGHT', 'TTH18A', 'TMONTCL22', 'TTH28A', 'TSTRCCDA', 'RSTRT1QZA', 'VSTRM5VA', 'VSTRP5VA', 'TSTRLENSA', 'TVPMA', 'TMONEPCB', 'TMONIOSA', 'TIOCA', 'TIOCB', 'V5TIFA', 'VM5VIOSA', 'V5IOCA', 'V5RE', 'V2INTIOCA', 'XTRSPAOUTA', 'TWDERW4', 'TIPUIPUCVA', 'TTH3A', 'VSTRVPELA', 'TSTRELECA', 'TIPUM1TS3A', 'RSTRT1QXYA', 'TIPUMAIP2A', 'TIPUM1BA1A', 'TIRUAVDTZB_1', 'MODEL_ONLY_COUNTER', 'VMANOTWTAA', 'TWDERW2', 'XTRSPASPEA', 'TWDERW3', 'XTRSPBSPEA', 'VMANOTWTAB', 'TFETRW3A', 'TWDERW1', 'VMONQPSKA', 'TCVSSRBA', 'IMHELTWTAA']
+
+
+['TTH3A', 'TMONTCL3', 'TTH11A', 'TTH4A', 'TTH21A', 'TSAPANEL2', 'TMONTCL11', 'TSAPANEL2', 'TMONTCL4', 'TSAPANEL3', 
+'TTH17A', 'TMONTCL12', 'TMONTCL5', 'TTH6A', 'TSAPANEL3', 'TMONTCL17', 'TMONTCL6', 'TTH13A', 'TMONTCL7', 'TTH8A', 
+'TTH9A', 'TMONTCL1', 'TMONTCL21', 'TTH2A', 'TDRUMBFB', 'TMONTCL8', 'TMONTCL13', 'TTH31A', 'TTH10A', 'TTH14A', 
+'TMONTCL10', 'TTH22A', 'TMONTCL31', 'TMONTCL14', 'TTH15A', 'TMONTCL18', 'TMONTCL15', 'TDRUMONOA', 'TTH23A', 
+'TTH16A', 'TTH19A', 'VTHREFIOSA', 'TMONTCL19', 'TMONTCL23', 'TTH20A', 'TMONTCL20', 'TTH27A', 'TMONEPCA', 'VTHREFMON', 
+'V5SURV', 'TMONTCL27', 'TMONLOAD', 'TRXA', 'TMONTCL28', 'TRXA', 'TMONQPSKA', 'TTH29A', 'TMONOFFSET', 'TMONGPSB', 
+'TTH30A', 'TMONTXA', 'TDRUMBFA', 'TMONQPSKB', 'ISGA', 'ISGA', 'IHTGR1A', 'ISGA', 'TTH7A', 'IHTGR2A', 
+'TRXB', 'TMONTWTA', 'REFERENCE_WEIGHT', 'TSAPANEL1', 'TSAPANEL1', 'TTH28A', 'TIPUFPARDA', 'TIPUMEBPCA', 'TTH4A', 'TIPUIPUCOA', 
+'TTH5A', 'VIPUREF3A', 'TTH6A', 'TTH27A', 'VIPUREF4A', 'TIPUM1TS2A', 'TIPUMEBTRA', 'TIPUIPUHKA', 'TIPUPEBPCA', 'TIRUAVDTBB_1', 
+'TIPUIPUTRA', 'TIPUTUBE3A', 'TIPUPEBTRA', 'TIPUMAIP1A', 'TIPUM2BAFA', 'TIPUM1TS1A', 'TIPUTUBE1A', 'TIPUBARPAA', 'TIPUBARMSA', 'IRU_STATUS_WORD_B', 
+'VIPUREF5A', 'VIPUREF1A', 'VIPUREF2A', 'VIPUREF6A', 'TIRUAVDTXB_1', 'TIRUAVDTYB_1', 'V6RXA', 'TIMER_GAP_SUP', 'ICSSYNA', 'ICSSYPA', 
+'ICSSXNA', 'XTANKPRES', 'ICSSXPA', 'TCVSSRAA', 'VANASSRAA', 'VANASSRBA', 'TMONTXA', 'TMONTCL2', 'TDRUMONOB', 'V6TXA', 
+'TRXB', 'TTH1A', 'TTH5A', 'V5VPMA', 'VTHREFIOSA', 'VTHREFIOCA', 'TMONTCL9', 'VTHREFMON', 'TTH12A', 'TMONTCL16', 
+'TFETRW1A', 'TFETRW2A', 'TFETRW4A', 'ANGULAR_MOMENTUM_RW1', 'ANGULAR_MOMENTUM_RW2', 'ANGULAR_MOMENTUM_RW3', 'ISGA', 'REFERENCE_WEIGHT', 'TTH18A', 'TMONTCL22', 
+'TTH28A', 'TSTRCCDA', 'RSTRT1QZA', 'VSTRM5VA', 'VSTRP5VA', 'TSTRLENSA', 'TVPMA', 'TMONEPCB', 'TMONIOSA', 'TIOCA', 
+'TIOCB', 'V5TIFA', 'VM5VIOSA', 'V5IOCA', 'V5RE', 'V2INTIOCA', 'XTRSPAOUTA', 'TWDERW4', 'TIPUIPUCVA', 'TTH3A', 
+'VSTRVPELA', 'TSTRELECA', 'TIPUM1TS3A', 'RSTRT1QXYA', 'TIPUMAIP2A', 'TIPUM1BA1A', 'TIRUAVDTZB_1', 'MODEL_ONLY_COUNTER', 'VMANOTWTAA', 'TWDERW2', 
+'XTRSPASPEA', 'TWDERW3', 'XTRSPBSPEA', 'VMANOTWTAB', 'TFETRW3A', 'TWDERW1', 'VMONQPSKA', 'TCVSSRBA', 'IMHELTWTAA']
+
+==> 0:10 (duplicated: 'TSAPANEL2'x2)
+['TTH3A', 'TMONTCL3', 'TTH11A', 'TTH4A', 'TTH21A', 'TSAPANEL2', 'TMONTCL11', 'TMONTCL4', 'TSAPANEL3']
+['analysis_theos_tth3a_1h', 'analysis_theos_tmontcl3_1d', 'analysis_theos_tth11a_1h', 'analysis_theos_tth4a_1h', 'analysis_theos_tth21a_1h', 'analysis_theos_tsapanel2_1h', 'analysis_theos_tmontcl11_1h', 'analysis_theos_tmontcl4_1h', 'analysis_theos_tsapanel3_1h']
+['anomaly_theos_tth3a_1h_auto_m1', 'anomaly_theos_tmontcl3_1d_auto_m1', 'anomaly_theos_tth11a_1h_auto_m1', 'anomaly_theos_tth4a_1h_auto_m1', 'anomaly_theos_tth21a_1h_auto_m1', 'anomaly_theos_tsapanel2_1h_auto_m1', 'anomaly_theos_tmontcl11_1h_auto_m1', 'anomaly_theos_tmontcl4_1h_auto_m1', 'anomaly_theos_tsapanel3_1h_auto_m1']
+
+==> 10:20
+['TTH17A', 'TMONTCL12', 'TMONTCL5', 'TTH6A', 'TSAPANEL3', 'TMONTCL17', 'TMONTCL6', 'TTH13A', 'TMONTCL7', 'TTH8A']
+['analysis_theos_tth13a_1h', 'analysis_theos_tth8a_1h', 'analysis_theos_tsapanel3_1h', 'analysis_theos_tmontcl12_4h', 'analysis_theos_tth17a_1h', 'analysis_theos_tmontcl5_30min', 'analysis_theos_tmontcl6_1h', 'analysis_theos_tmontcl17_1h', 'analysis_theos_tmontcl7_1h', 'analysis_theos_tth6a_30min']
+['anomaly_theos_tth13a_1h_auto_m1', 'anomaly_theos_tth8a_1h_auto_m1', 'anomaly_theos_tsapanel3_1h_auto_m1', 'anomaly_theos_tmontcl12_4h_auto_m1', 'anomaly_theos_tth17a_1h_auto_m1', 'anomaly_theos_tmontcl5_30min_auto_m1', 'anomaly_theos_tmontcl6_1h_auto_m1', 'anomaly_theos_tmontcl17_1h_auto_m1', 'anomaly_theos_tmontcl7_1h_auto_m1', 'anomaly_theos_tth6a_30min_auto_m1']
+
+==> 20:30
+['TTH9A', 'TMONTCL1', 'TMONTCL21', 'TTH2A', 'TDRUMBFB', 'TMONTCL8', 'TMONTCL13', 'TTH31A', 'TTH10A', 'TTH14A']
+['analysis_theos_tmontcl21_1h', 'analysis_theos_tmontcl13_1h', 'analysis_theos_tmontcl1_1h', 'analysis_theos_tth31a_1h', 'analysis_theos_tdrumbfb_1h', 'analysis_theos_tth2a_1h', 'analysis_theos_tth9a_1d', 'analysis_theos_tth14a_1h', 'analysis_theos_tth10a_30min', 'analysis_theos_tmontcl8_1h']
+['anomaly_theos_tmontcl21_1h_auto_m1', 'anomaly_theos_tmontcl13_1h_auto_m1', 'anomaly_theos_tmontcl1_1h_auto_m1', 'anomaly_theos_tth31a_1h_auto_m1', 'anomaly_theos_tdrumbfb_1h_auto_m1', 'anomaly_theos_tth2a_1h_auto_m1', 'anomaly_theos_tth9a_1d_auto_m1', 'anomaly_theos_tth14a_1h_auto_m1', 'anomaly_theos_tth10a_30min_auto_m1', 'anomaly_theos_tmontcl8_1h_auto_m1']
+
+==> 30:40
+['TMONTCL10', 'TTH22A', 'TMONTCL31', 'TMONTCL14', 'TTH15A', 'TMONTCL18', 'TMONTCL15', 'TDRUMONOA', 'TTH23A', 'TTH16A']
+['analysis_theos_tmontcl18_1h', 'analysis_theos_tth15a_1h', 'analysis_theos_tmontcl10_1h', 'analysis_theos_tmontcl14_1h', 'analysis_theos_tmontcl31_1h', 'analysis_theos_tdrumonoa_1h', 'analysis_theos_tth23a_1h', 'analysis_theos_tmontcl15_1h', 'analysis_theos_tth16a_1h', 'analysis_theos_tth22a_1h']
+['anomaly_theos_tmontcl18_1h_auto_m1', 'anomaly_theos_tth15a_1h_auto_m1', 'anomaly_theos_tmontcl10_1h_auto_m1', 'anomaly_theos_tmontcl14_1h_auto_m1', 'anomaly_theos_tmontcl31_1h_auto_m1', 'anomaly_theos_tdrumonoa_1h_auto_m1', 'anomaly_theos_tth23a_1h_auto_m1', 'anomaly_theos_tmontcl15_1h_auto_m1', 'anomaly_theos_tth16a_1h_auto_m1', 'anomaly_theos_tth22a_1h_auto_m1']
+
+==> 40:50
+['V5SURV', 'TTH19A', 'VTHREFIOSA', 'TMONTCL19', 'TMONTCL23', 'TTH20A', 'TMONTCL20', 'TTH27A', 'TMONEPCA', 'VTHREFMON']
+['analysis_theos_tth19a_1h', 'analysis_theos_tth27a_1h', 'analysis_theos_vthrefmon_1h', 'analysis_theos_v5surv_1h', 'analysis_theos_tth20a_1h', 'analysis_theos_tmontcl23_1h', 'analysis_theos_tmontcl19_1h', 'analysis_theos_tmonepca_1h', 'analysis_theos_tmontcl20_1h', 'analysis_theos_vthrefiosa_1h']
+['anomaly_theos_tth19a_1h_auto_m1', 'anomaly_theos_tth27a_1h_auto_m1', 'anomaly_theos_vthrefmon_1h_auto_m1', 'anomaly_theos_v5surv_1h_auto_m1', 'anomaly_theos_tth20a_1h_auto_m1', 'anomaly_theos_tmontcl23_1h_auto_m1', 'anomaly_theos_tmontcl19_1h_auto_m1', 'anomaly_theos_tmonepca_1h_auto_m1', 'anomaly_theos_tmontcl20_1h_auto_m1', 'anomaly_theos_vthrefiosa_1h_auto_m1']
+
+==> 50:60 (duplicated: 'TRXA'x2)
+['TMONTCL27', 'TMONLOAD', 'TRXA', 'TMONTCL28', 'TMONQPSKA', 'TTH29A', 'TMONOFFSET', 'TMONGPSB', 'TTH30A']
+['analysis_theos_tmonoffset_1h', 'analysis_theos_tmonqpska_1h', 'analysis_theos_tth29a_1h', 'analysis_theos_tmongpsb_1h', 'analysis_theos_tmonload_1h', 'analysis_theos_tth30a_1h', 'analysis_theos_trxa_1h', 'analysis_theos_tmontcl28_1h', 'analysis_theos_tmontcl27_1h']
+['anomaly_theos_tmonoffset_1h_auto_m1', 'anomaly_theos_tmonqpska_1h_auto_m1', 'anomaly_theos_tth29a_1h_auto_m1', 'anomaly_theos_tmongpsb_1h_auto_m1', 'anomaly_theos_tmonload_1h_auto_m1', 'anomaly_theos_tth30a_1h_auto_m1', 'anomaly_theos_trxa_1h_auto_m1', 'anomaly_theos_tmontcl28_1h_auto_m1', 'anomaly_theos_tmontcl27_1h_auto_m1']
+
+
+==> 60:70 (duplicated: 'ISGA'x3)
+['TMONTXA', 'TDRUMBFA', 'TMONQPSKB', 'IHTGR1A', 'ISGA', 'TTH7A', 'IHTGR2A', 'TRXB']
+['analysis_theos_isga_1h', 'analysis_theos_tmonqpskb_1h', 'analysis_theos_tmontxa_1h', 'analysis_theos_tth7a_1h', 'analysis_theos_tdrumbfa_1h', 'analysis_theos_ihtgr2a_1h', 'analysis_theos_trxb_1h', 'analysis_theos_ihtgr1a_1h']
+['anomaly_theos_isga_1h_auto_m1', 'anomaly_theos_tmonqpskb_1h_auto_m1', 'anomaly_theos_tmontxa_1h_auto_m1', 'anomaly_theos_tth7a_1h_auto_m1', 'anomaly_theos_tdrumbfa_1h_auto_m1', 'anomaly_theos_ihtgr2a_1h_auto_m1', 'anomaly_theos_trxb_1h_auto_m1', 'anomaly_theos_ihtgr1a_1h_auto_m1']
+
+==> 70:80 (duplicated: 'TSAPANEL1'x2)
+['TMONTWTA', 'REFERENCE_WEIGHT', 'TSAPANEL1', 'TTH28A', 'TIPUFPARDA', 'TIPUMEBPCA', 'TTH4A', 'TIPUIPUCOA', 'TTH5A']
+['analysis_theos_tipuipucoa_1h', 'analysis_theos_tth4a_1h', 'analysis_theos_tth28a_1h', 'analysis_theos_tth5a_30min', 'analysis_theos_tipumebpca_1h', 'analysis_theos_tipufparda_1h', 'analysis_theos_tmontwta_1h', 'analysis_theos_tsapanel1_1h', 'analysis_theos_reference_weight_1h']
+['anomaly_theos_tipuipucoa_1h_auto_m1', 'anomaly_theos_tth4a_1h_auto_m1', 'anomaly_theos_tth28a_1h_auto_m1', 'anomaly_theos_tth5a_30min_auto_m1', 'anomaly_theos_tipumebpca_1h_auto_m1', 'anomaly_theos_tipufparda_1h_auto_m1', 'anomaly_theos_tmontwta_1h_auto_m1', 'anomaly_theos_tsapanel1_1h_auto_m1', 'anomaly_theos_reference_weight_1h_auto_m1']
+
+==> 80:90 (duplicated: 'TTH6A'(10:20/remove), 'TTH27A'(40:50/remove))
+['VIPUREF3A', 'VIPUREF4A', 'TIPUM1TS2A', 'TIPUMEBTRA', 'TIPUIPUHKA', 'TIPUPEBPCA', 'TIRUAVDTBB_1', 'TIPUIPUTRA']
+['analysis_theos_tipuipuhka_1h', 'analysis_theos_tipum1ts2a_1h', 'analysis_theos_tiruavdtbb_1_1h', 'analysis_theos_tipumebtra_1h', 'analysis_theos_vipuref3a_1h', 'analysis_theos_tipuiputra_1h', 'analysis_theos_tipupebpca_1h', 'analysis_theos_vipuref4a_1h']
+['anomaly_theos_tipuipuhka_1h_auto_m1', 'anomaly_theos_tipum1ts2a_1h_auto_m1', 'anomaly_theos_tiruavdtbb_1_1h_auto_m1', 'anomaly_theos_tipumebtra_1h_auto_m1', 'anomaly_theos_vipuref3a_1h_auto_m1', 'anomaly_theos_tipuiputra_1h_auto_m1', 'anomaly_theos_tipupebpca_1h_auto_m1', 'anomaly_theos_vipuref4a_1h_auto_m1']
+
+==> 90:100
+['TIPUTUBE3A', 'TIPUPEBTRA', 'TIPUMAIP1A', 'TIPUM2BAFA', 'TIPUM1TS1A', 'TIPUTUBE1A', 'TIPUBARPAA', 'TIPUBARMSA', 'IRU_STATUS_WORD_B', 'VIPUREF5A']
+['analysis_theos_tipumaip1a_1h', 'analysis_theos_tipubarpaa_1h', 'analysis_theos_iru_status_word_b_1h', 'analysis_theos_tipupebtra_1h', 'analysis_theos_tipum1ts1a_1h', 'analysis_theos_tipubarmsa_1h', 'analysis_theos_tiputube3a_1h', 'analysis_theos_tiputube1a_1h', 'analysis_theos_tipum2bafa_1h', 'analysis_theos_vipuref5a_1h']
+['anomaly_theos_tipumaip1a_1h_auto_m1', 'anomaly_theos_tipubarpaa_1h_auto_m1', 'anomaly_theos_iru_status_word_b_1h_auto_m1', 'anomaly_theos_tipupebtra_1h_auto_m1', 'anomaly_theos_tipum1ts1a_1h_auto_m1', 'anomaly_theos_tipubarmsa_1h_auto_m1', 'anomaly_theos_tiputube3a_1h_auto_m1', 'anomaly_theos_tiputube1a_1h_auto_m1', 'anomaly_theos_tipum2bafa_1h_auto_m1', 'anomaly_theos_vipuref5a_1h_auto_m1']
+
+==> 100:110
+['VIPUREF1A', 'VIPUREF2A', 'VIPUREF6A', 'TIRUAVDTXB_1', 'TIRUAVDTYB_1', 'V6RXA', 'TIMER_GAP_SUP', 'ICSSYNA', 'ICSSYPA', 'ICSSXNA']
+['analysis_theos_v6rxa_1h', 'analysis_theos_vipuref6a_1h', 'analysis_theos_vipuref2a_1h', 'analysis_theos_timer_gap_sup_1h', 'analysis_theos_icssyna_1h', 'analysis_theos_tiruavdtxb_1_1h', 'analysis_theos_tiruavdtyb_1_1h', 'analysis_theos_vipuref1a_1h', 'analysis_theos_icssypa_1h', 'analysis_theos_icssxna_1h']
+['anomaly_theos_v6rxa_1h_auto_m1', 'anomaly_theos_vipuref6a_1h_auto_m1', 'anomaly_theos_vipuref2a_1h_auto_m1', 'anomaly_theos_timer_gap_sup_1h_auto_m1', 'anomaly_theos_icssyna_1h_auto_m1', 'anomaly_theos_tiruavdtxb_1_1h_auto_m1', 'anomaly_theos_tiruavdtyb_1_1h_auto_m1', 'anomaly_theos_vipuref1a_1h_auto_m1', 'anomaly_theos_icssypa_1h_auto_m1', 'anomaly_theos_icssxna_1h_auto_m1']
+
+==> 110:120 (duplicated: 'TMONTXA'(60:70/remove), 'TRXB'(60:70/remove))
+['ICSSXPA', 'TCVSSRAA', 'VANASSRAA', 'VANASSRBA', 'TMONTCL2', 'TDRUMONOB', 'V6TXA', 'XTANKPRES']
+['analysis_theos_tmontxa_1h', 'analysis_theos_trxb_1h', 'analysis_theos_icssxpa_1h', 'analysis_theos_tdrumonob_1h', 'analysis_theos_vanassrba_1h', 'analysis_theos_vanassraa_1h', 'analysis_theos_xtankpres_1h', 'analysis_theos_tcvssraa_1h', 'analysis_theos_v6txa_1h', 'analysis_theos_tmontcl2_1h']
+['anomaly_theos_tmontxa_1h_auto_m1', 'anomaly_theos_trxb_1h_auto_m1', 'anomaly_theos_icssxpa_1h_auto_m1', 'anomaly_theos_tdrumonob_1h_auto_m1', 'anomaly_theos_vanassrba_1h_auto_m1', 'anomaly_theos_vanassraa_1h_auto_m1', 'anomaly_theos_xtankpres_1h_auto_m1', 'anomaly_theos_tcvssraa_1h_auto_m1', 'anomaly_theos_v6txa_1h_auto_m1', 'anomaly_theos_tmontcl2_1h_auto_m1']
+
+==> 120:130 (duplicated: 'TTH5A'(70:80/remove), 'VTHREFIOSA'(40:50/remove), 'VTHREFMON'(40:50/remove))
+['TTH1A', 'V5VPMA', 'VTHREFIOCA', 'TMONTCL9', 'TTH12A', 'TMONTCL16', 'TFETRW1A']
+['analysis_theos_v5vpma_1h', 'analysis_theos_tfetrw1a_1h', 'analysis_theos_tth12a_1h', 'analysis_theos_tth1a_1d', 'analysis_theos_tmontcl16_1h', 'analysis_theos_vthrefioca_1h',  'analysis_theos_tmontcl9_1h']
+['anomaly_theos_v5vpma_1h_auto_m1', 'anomaly_theos_tfetrw1a_1h_auto_m1', 'anomaly_theos_tth12a_1h_auto_m1', 'anomaly_theos_tth1a_1d_auto_m1', 'anomaly_theos_tmontcl16_1h_auto_m1', 'anomaly_theos_vthrefioca_1h_auto_m1', 'anomaly_theos_tmontcl9_1h_auto_m1']
+
+==> 130:140 (duplicated: 'ISGA'(60:70/remove), 'REFERENCE_WEIGHT'(70:80/remove), 'TTH28A'(70:80/remove))
+['TFETRW2A', 'TFETRW4A', 'ANGULAR_MOMENTUM_RW1', 'ANGULAR_MOMENTUM_RW2', 'ANGULAR_MOMENTUM_RW3', 'TTH18A', 'TMONTCL22']
+['analysis_theos_tfetrw2a_1h', 'analysis_theos_tfetrw4a_1h', 'analysis_theos_angular_momentum_rw1_1h', 'analysis_theos_angular_momentum_rw2_1h', 'analysis_theos_angular_momentum_rw3_1h', 'analysis_theos_tth18a_1h', 'analysis_theos_tmontcl22_1h']
+['anomaly_theos_tfetrw2a_1h_auto_m1', 'anomaly_theos_tfetrw4a_1h_auto_m1', 'anomaly_theos_angular_momentum_rw1_1h_auto_m1', 'anomaly_theos_angular_momentum_rw2_1h_auto_m1', 'anomaly_theos_angular_momentum_rw3_1h_auto_m1', 'anomaly_theos_tth18a_1h_auto_m1', 'anomaly_theos_tmontcl22_1h_auto_m1']
+
+==> 140:150 
+['TSTRCCDA', 'RSTRT1QZA', 'VSTRM5VA', 'VSTRP5VA', 'TSTRLENSA', 'TVPMA', 'TMONEPCB', 'TMONIOSA', 'TIOCA', 'TIOCB']
+['analysis_theos_tstrccda_1h', 'analysis_theos_rstrt1qza_1h', 'analysis_theos_vstrm5va_1h', 'analysis_theos_vstrp5va_1h', 'analysis_theos_tstrlensa_1h', 'analysis_theos_tvpma_1h', 'analysis_theos_tmonepcb_1h', 'analysis_theos_tmoniosa_1h', 'analysis_theos_tioca_1h', 'analysis_theos_tiocb_1h']
+['anomaly_theos_tstrccda_1h_auto_m1', 'anomaly_theos_rstrt1qza_1h_auto_m1', 'anomaly_theos_vstrm5va_1h_auto_m1', 'anomaly_theos_vstrp5va_1h_auto_m1', 'anomaly_theos_tstrlensa_1h_auto_m1', 'anomaly_theos_tvpma_1h_auto_m1', 'anomaly_theos_tmonepcb_1h_auto_m1', 'anomaly_theos_tmoniosa_1h_auto_m1', 'anomaly_theos_tioca_1h_auto_m1', 'anomaly_theos_tiocb_1h_auto_m1']
+
+==> 150:160 (duplicated: 'TTH3A'(0:10/remove))
+['V5TIFA', 'VM5VIOSA', 'V5IOCA', 'V5RE', 'V2INTIOCA', 'XTRSPAOUTA', 'TWDERW4', 'TIPUIPUCVA', 'VSTRVPELA'] 
+['analysis_theos_v5tifa_1h', 'analysis_theos_vm5viosa_1h', 'analysis_theos_v5ioca_1h', 'analysis_theos_v5re_1h', 'analysis_theos_v2intioca_1h', 'analysis_theos_xtrspaouta_1h', 'analysis_theos_twderw4_1h', 'analysis_theos_tipuipucva_1h', 'analysis_theos_vstrvpela_1h']
+['anomaly_theos_v5tifa_1h_auto_m1', 'anomaly_theos_vm5viosa_1h_auto_m1', 'anomaly_theos_v5ioca_1h_auto_m1', 'anomaly_theos_v5re_1h_auto_m1', 'anomaly_theos_v2intioca_1h_auto_m1', 'anomaly_theos_xtrspaouta_1h_auto_m1', 'anomaly_theos_twderw4_1h_auto_m1', 'anomaly_theos_tipuipucva_1h_auto_m1', 'anomaly_theos_vstrvpela_1h_auto_m1']
+
+==> 160:170
+['TSTRELECA', 'TIPUM1TS3A', 'RSTRT1QXYA', 'TIPUMAIP2A', 'TIPUM1BA1A', 'TIRUAVDTZB_1', 'MODEL_ONLY_COUNTER', 'VMANOTWTAA', 'TWDERW2', 'XTRSPASPEA']
+['analysis_theos_tstreleca_1h', 'analysis_theos_tipum1ts3a_1h', 'analysis_theos_rstrt1qxya_1h', 'analysis_theos_tipumaip2a_1h', 'analysis_theos_tipum1ba1a_1h', 'analysis_theos_tiruavdtzb_1_1h', 'analysis_theos_model_only_counter_1h', 'analysis_theos_vmanotwtaa_1h', 'analysis_theos_twderw2_1h', 'analysis_theos_xtrspaspea_1h']
+['anomaly_theos_tstreleca_1h_auto_m1', 'anomaly_theos_tipum1ts3a_1h_auto_m1', 'anomaly_theos_rstrt1qxya_1h_auto_m1', 'anomaly_theos_tipumaip2a_1h_auto_m1', 'anomaly_theos_tipum1ba1a_1h_auto_m1', 'anomaly_theos_tiruavdtzb_1_1h_auto_m1', 'anomaly_theos_model_only_counter_1h_auto_m1', 'anomaly_theos_vmanotwtaa_1h_auto_m1', 'anomaly_theos_twderw2_1h_auto_m1', 'anomaly_theos_xtrspaspea_1h_auto_m1']
+
+==> 170:180 (8)
+['TWDERW3', 'XTRSPBSPEA', 'VMANOTWTAB', 'TFETRW3A', 'TWDERW1', 'VMONQPSKA', 'TCVSSRBA', 'IMHELTWTAA']
+['analysis_theos_twderw3_1h', 'analysis_theos_xtrspbspea_1h', 'analysis_theos_vmanotwtab_1h', 'analysis_theos_tfetrw3a_1h', 'analysis_theos_twderw1_1h', 'analysis_theos_vmonqpska_1h', 'analysis_theos_tcvssrba_1h', 'analysis_theos_imheltwtaa_1h']
+['anomaly_theos_twderw3_1h_auto_m1', 'anomaly_theos_xtrspbspea_1h_auto_m1', 'anomaly_theos_vmanotwtab_1h_auto_m1', 'anomaly_theos_tfetrw3a_1h_auto_m1', 'anomaly_theos_twderw1_1h_auto_m1', 'anomaly_theos_vmonqpska_1h_auto_m1', 'anomaly_theos_tcvssrba_1h_auto_m1', 'anomaly_theos_imheltwtaa_1h_auto_m1']
+
+
+============================================================ All =========================================================
+['TTH3A', 'TMONTCL3', 'TTH11A', 'TTH4A', 'TTH21A', 'TSAPANEL2', 'TMONTCL11', 'TMONTCL4', 'TSAPANEL3',
+'TTH17A', 'TMONTCL12', 'TMONTCL5', 'TTH6A', 'TSAPANEL3', 'TMONTCL17', 'TMONTCL6', 'TTH13A', 'TMONTCL7', 'TTH8A',
+'TTH9A', 'TMONTCL1', 'TMONTCL21', 'TTH2A', 'TDRUMBFB', 'TMONTCL8', 'TMONTCL13', 'TTH31A', 'TTH10A', 'TTH14A',
+'TMONTCL10', 'TTH22A', 'TMONTCL31', 'TMONTCL14', 'TTH15A', 'TMONTCL18', 'TMONTCL15', 'TDRUMONOA', 'TTH23A', 'TTH16A',
+'V5SURV', 'TTH19A', 'VTHREFIOSA', 'TMONTCL19', 'TMONTCL23', 'TTH20A', 'TMONTCL20', 'TTH27A', 'TMONEPCA', 'VTHREFMON',
+'TMONTCL27', 'TMONLOAD', 'TRXA', 'TMONTCL28', 'TMONQPSKA', 'TTH29A', 'TMONOFFSET', 'TMONGPSB', 'TTH30A',
+'TMONTXA', 'TDRUMBFA', 'TMONQPSKB', 'IHTGR1A', 'ISGA', 'TTH7A', 'IHTGR2A', 'TRXB',
+'TMONTWTA', 'REFERENCE_WEIGHT', 'TSAPANEL1', 'TTH28A', 'TIPUFPARDA', 'TIPUMEBPCA', 'TTH4A', 'TIPUIPUCOA', 'TTH5A',
+'VIPUREF3A', 'VIPUREF4A', 'TIPUM1TS2A', 'TIPUMEBTRA', 'TIPUIPUHKA', 'TIPUPEBPCA', 'TIRUAVDTBB_1', 'TIPUIPUTRA',
+'TIPUTUBE3A', 'TIPUPEBTRA', 'TIPUMAIP1A', 'TIPUM2BAFA', 'TIPUM1TS1A', 'TIPUTUBE1A', 'TIPUBARPAA', 'TIPUBARMSA', 'IRU_STATUS_WORD_B', 'VIPUREF5A',
+'VIPUREF1A', 'VIPUREF2A', 'VIPUREF6A', 'TIRUAVDTXB_1', 'TIRUAVDTYB_1', 'V6RXA', 'TIMER_GAP_SUP', 'ICSSYNA', 'ICSSYPA', 'ICSSXNA',
+'ICSSXPA', 'TCVSSRAA', 'VANASSRAA', 'VANASSRBA', 'TMONTCL2', 'TDRUMONOB', 'V6TXA', 'XTANKPRES',
+'TTH1A', 'V5VPMA', 'VTHREFIOCA', 'TMONTCL9', 'TTH12A', 'TMONTCL16', 'TFETRW1A',
+'TFETRW2A', 'TFETRW4A', 'ANGULAR_MOMENTUM_RW1', 'ANGULAR_MOMENTUM_RW2', 'ANGULAR_MOMENTUM_RW3', 'TTH18A', 'TMONTCL22',
+'TSTRCCDA', 'RSTRT1QZA', 'VSTRM5VA', 'VSTRP5VA', 'TSTRLENSA', 'TVPMA', 'TMONEPCB', 'TMONIOSA', 'TIOCA', 'TIOCB',
+'V5TIFA', 'VM5VIOSA', 'V5IOCA', 'V5RE', 'V2INTIOCA', 'XTRSPAOUTA', 'TWDERW4', 'TIPUIPUCVA', 'VSTRVPELA',
+'TSTRELECA', 'TIPUM1TS3A', 'RSTRT1QXYA', 'TIPUMAIP2A', 'TIPUM1BA1A', 'TIRUAVDTZB_1', 'MODEL_ONLY_COUNTER', 'VMANOTWTAA', 'TWDERW2', 'XTRSPASPEA',
+'TWDERW3', 'XTRSPBSPEA', 'VMANOTWTAB', 'TFETRW3A', 'TWDERW1', 'VMONQPSKA', 'TCVSSRBA', 'IMHELTWTAA'
+]
+
+['analysis_theos_tth3a_1h', 'analysis_theos_tmontcl3_1d', 'analysis_theos_tth11a_1h', 'analysis_theos_tth4a_1h', 'analysis_theos_tth21a_1h', 'analysis_theos_tsapanel2_1h', 'analysis_theos_tmontcl11_1h', 'analysis_theos_tmontcl4_1h', 'analysis_theos_tsapanel3_1h',
+'analysis_theos_tth13a_1h', 'analysis_theos_tth8a_1h', 'analysis_theos_tsapanel3_1h', 'analysis_theos_tmontcl12_4h', 'analysis_theos_tth17a_1h', 'analysis_theos_tmontcl5_30min', 'analysis_theos_tmontcl6_1h', 'analysis_theos_tmontcl17_1h', 'analysis_theos_tmontcl7_1h', 'analysis_theos_tth6a_30min',
+'analysis_theos_tmontcl21_1h', 'analysis_theos_tmontcl13_1h', 'analysis_theos_tmontcl1_1h', 'analysis_theos_tth31a_1h', 'analysis_theos_tdrumbfb_1h', 'analysis_theos_tth2a_1h', 'analysis_theos_tth9a_1d', 'analysis_theos_tth14a_1h', 'analysis_theos_tth10a_30min', 'analysis_theos_tmontcl8_1h',
+'analysis_theos_tmontcl18_1h', 'analysis_theos_tth15a_1h', 'analysis_theos_tmontcl10_1h', 'analysis_theos_tmontcl14_1h', 'analysis_theos_tmontcl31_1h', 'analysis_theos_tdrumonoa_1h', 'analysis_theos_tth23a_1h', 'analysis_theos_tmontcl15_1h', 'analysis_theos_tth16a_1h', 'analysis_theos_tth22a_1h',
+'analysis_theos_tth19a_1h', 'analysis_theos_tth27a_1h', 'analysis_theos_vthrefmon_1h', 'analysis_theos_v5surv_1h', 'analysis_theos_tth20a_1h', 'analysis_theos_tmontcl23_1h', 'analysis_theos_tmontcl19_1h', 'analysis_theos_tmonepca_1h', 'analysis_theos_tmontcl20_1h', 'analysis_theos_vthrefiosa_1h',
+'analysis_theos_tmonoffset_1h', 'analysis_theos_tmonqpska_1h', 'analysis_theos_tth29a_1h', 'analysis_theos_tmongpsb_1h', 'analysis_theos_tmonload_1h', 'analysis_theos_tth30a_1h', 'analysis_theos_trxa_1h', 'analysis_theos_tmontcl28_1h', 'analysis_theos_tmontcl27_1h',
+'analysis_theos_isga_1h', 'analysis_theos_tmonqpskb_1h', 'analysis_theos_tmontxa_1h', 'analysis_theos_tth7a_1h', 'analysis_theos_tdrumbfa_1h', 'analysis_theos_ihtgr2a_1h', 'analysis_theos_trxb_1h', 'analysis_theos_ihtgr1a_1h',
+'analysis_theos_tipuipucoa_1h', 'analysis_theos_tth4a_1h', 'analysis_theos_tth28a_1h', 'analysis_theos_tth5a_30min', 'analysis_theos_tipumebpca_1h', 'analysis_theos_tipufparda_1h', 'analysis_theos_tmontwta_1h', 'analysis_theos_tsapanel1_1h', 'analysis_theos_reference_weight_1h',
+'analysis_theos_tipuipuhka_1h', 'analysis_theos_tipum1ts2a_1h', 'analysis_theos_tiruavdtbb_1_1h', 'analysis_theos_tipumebtra_1h', 'analysis_theos_vipuref3a_1h', 'analysis_theos_tipuiputra_1h', 'analysis_theos_tipupebpca_1h', 'analysis_theos_vipuref4a_1h',
+'analysis_theos_tipumaip1a_1h', 'analysis_theos_tipubarpaa_1h', 'analysis_theos_iru_status_word_b_1h', 'analysis_theos_tipupebtra_1h', 'analysis_theos_tipum1ts1a_1h', 'analysis_theos_tipubarmsa_1h', 'analysis_theos_tiputube3a_1h', 'analysis_theos_tiputube1a_1h', 'analysis_theos_tipum2bafa_1h', 'analysis_theos_vipuref5a_1h',
+'analysis_theos_v6rxa_1h', 'analysis_theos_vipuref6a_1h', 'analysis_theos_vipuref2a_1h', 'analysis_theos_timer_gap_sup_1h', 'analysis_theos_icssyna_1h', 'analysis_theos_tiruavdtxb_1_1h', 'analysis_theos_tiruavdtyb_1_1h', 'analysis_theos_vipuref1a_1h', 'analysis_theos_icssypa_1h', 'analysis_theos_icssxna_1h',
+'analysis_theos_tmontxa_1h', 'analysis_theos_trxb_1h', 'analysis_theos_icssxpa_1h', 'analysis_theos_tdrumonob_1h', 'analysis_theos_vanassrba_1h', 'analysis_theos_vanassraa_1h', 'analysis_theos_xtankpres_1h', 'analysis_theos_tcvssraa_1h', 'analysis_theos_v6txa_1h', 'analysis_theos_tmontcl2_1h',
+'analysis_theos_v5vpma_1h', 'analysis_theos_tfetrw1a_1h', 'analysis_theos_tth12a_1h', 'analysis_theos_tth1a_1d', 'analysis_theos_tmontcl16_1h', 'analysis_theos_vthrefioca_1h',  'analysis_theos_tmontcl9_1h',
+'analysis_theos_tfetrw2a_1h', 'analysis_theos_tfetrw4a_1h', 'analysis_theos_angular_momentum_rw1_1h', 'analysis_theos_angular_momentum_rw2_1h', 'analysis_theos_angular_momentum_rw3_1h', 'analysis_theos_tth18a_1h', 'analysis_theos_tmontcl22_1h',
+'analysis_theos_twderw3_1h', 'analysis_theos_xtrspbspea_1h', 'analysis_theos_vmanotwtab_1h', 'analysis_theos_tfetrw3a_1h', 'analysis_theos_twderw1_1h', 'analysis_theos_vmonqpska_1h', 'analysis_theos_tcvssrba_1h', 'analysis_theos_imheltwtaa_1h',
+'analysis_theos_v5tifa_1h', 'analysis_theos_vm5viosa_1h', 'analysis_theos_v5ioca_1h', 'analysis_theos_v5re_1h', 'analysis_theos_v2intioca_1h', 'analysis_theos_xtrspaouta_1h', 'analysis_theos_twderw4_1h', 'analysis_theos_tipuipucva_1h', 'analysis_theos_vstrvpela_1h',
+'analysis_theos_tstrccda_1h', 'analysis_theos_rstrt1qza_1h', 'analysis_theos_vstrm5va_1h', 'analysis_theos_vstrp5va_1h', 'analysis_theos_tstrlensa_1h', 'analysis_theos_tvpma_1h', 'analysis_theos_tmonepcb_1h', 'analysis_theos_tmoniosa_1h', 'analysis_theos_tioca_1h', 'analysis_theos_tiocb_1h',
+'analysis_theos_tstreleca_1h', 'analysis_theos_tipum1ts3a_1h', 'analysis_theos_rstrt1qxya_1h', 'analysis_theos_tipumaip2a_1h', 'analysis_theos_tipum1ba1a_1h', 'analysis_theos_tiruavdtzb_1_1h', 'analysis_theos_model_only_counter_1h', 'analysis_theos_vmanotwtaa_1h', 'analysis_theos_twderw2_1h', 'analysis_theos_xtrspaspea_1h'
+
+]
+
+['anomaly_theos_tth3a_1h_auto_m1', 'anomaly_theos_tmontcl3_1d_auto_m1', 'anomaly_theos_tth11a_1h_auto_m1', 'anomaly_theos_tth4a_1h_auto_m1', 'anomaly_theos_tth21a_1h_auto_m1', 'anomaly_theos_tsapanel2_1h_auto_m1', 'anomaly_theos_tmontcl11_1h_auto_m1', 'anomaly_theos_tmontcl4_1h_auto_m1', 'anomaly_theos_tsapanel3_1h_auto_m1',
+'anomaly_theos_tth13a_1h_auto_m1', 'anomaly_theos_tth8a_1h_auto_m1', 'anomaly_theos_tsapanel3_1h_auto_m1', 'anomaly_theos_tmontcl12_4h_auto_m1', 'anomaly_theos_tth17a_1h_auto_m1', 'anomaly_theos_tmontcl5_30min_auto_m1', 'anomaly_theos_tmontcl6_1h_auto_m1', 'anomaly_theos_tmontcl17_1h_auto_m1', 'anomaly_theos_tmontcl7_1h_auto_m1', 'anomaly_theos_tth6a_30min_auto_m1',
+'anomaly_theos_tmontcl21_1h_auto_m1', 'anomaly_theos_tmontcl13_1h_auto_m1', 'anomaly_theos_tmontcl1_1h_auto_m1', 'anomaly_theos_tth31a_1h_auto_m1', 'anomaly_theos_tdrumbfb_1h_auto_m1', 'anomaly_theos_tth2a_1h_auto_m1', 'anomaly_theos_tth9a_1d_auto_m1', 'anomaly_theos_tth14a_1h_auto_m1', 'anomaly_theos_tth10a_30min_auto_m1', 'anomaly_theos_tmontcl8_1h_auto_m1',
+'anomaly_theos_tmontcl18_1h_auto_m1', 'anomaly_theos_tth15a_1h_auto_m1', 'anomaly_theos_tmontcl10_1h_auto_m1', 'anomaly_theos_tmontcl14_1h_auto_m1', 'anomaly_theos_tmontcl31_1h_auto_m1', 'anomaly_theos_tdrumonoa_1h_auto_m1', 'anomaly_theos_tth23a_1h_auto_m1', 'anomaly_theos_tmontcl15_1h_auto_m1', 'anomaly_theos_tth16a_1h_auto_m1', 'anomaly_theos_tth22a_1h_auto_m1',
+'anomaly_theos_tth19a_1h_auto_m1', 'anomaly_theos_tth27a_1h_auto_m1', 'anomaly_theos_vthrefmon_1h_auto_m1', 'anomaly_theos_v5surv_1h_auto_m1', 'anomaly_theos_tth20a_1h_auto_m1', 'anomaly_theos_tmontcl23_1h_auto_m1', 'anomaly_theos_tmontcl19_1h_auto_m1', 'anomaly_theos_tmonepca_1h_auto_m1', 'anomaly_theos_tmontcl20_1h_auto_m1', 'anomaly_theos_vthrefiosa_1h_auto_m1',
+'anomaly_theos_tmonoffset_1h_auto_m1', 'anomaly_theos_tmonqpska_1h_auto_m1', 'anomaly_theos_tth29a_1h_auto_m1', 'anomaly_theos_tmongpsb_1h_auto_m1', 'anomaly_theos_tmonload_1h_auto_m1', 'anomaly_theos_tth30a_1h_auto_m1', 'anomaly_theos_trxa_1h_auto_m1', 'anomaly_theos_tmontcl28_1h_auto_m1', 'anomaly_theos_tmontcl27_1h_auto_m1',
+'anomaly_theos_isga_1h_auto_m1', 'anomaly_theos_tmonqpskb_1h_auto_m1', 'anomaly_theos_tmontxa_1h_auto_m1', 'anomaly_theos_tth7a_1h_auto_m1', 'anomaly_theos_tdrumbfa_1h_auto_m1', 'anomaly_theos_ihtgr2a_1h_auto_m1', 'anomaly_theos_trxb_1h_auto_m1', 'anomaly_theos_ihtgr1a_1h_auto_m1',
+'anomaly_theos_tipuipucoa_1h_auto_m1', 'anomaly_theos_tth4a_1h_auto_m1', 'anomaly_theos_tth28a_1h_auto_m1', 'anomaly_theos_tth5a_30min_auto_m1', 'anomaly_theos_tipumebpca_1h_auto_m1', 'anomaly_theos_tipufparda_1h_auto_m1', 'anomaly_theos_tmontwta_1h_auto_m1', 'anomaly_theos_tsapanel1_1h_auto_m1', 'anomaly_theos_reference_weight_1h_auto_m1',
+'anomaly_theos_tipuipuhka_1h_auto_m1', 'anomaly_theos_tipum1ts2a_1h_auto_m1', 'anomaly_theos_tiruavdtbb_1_1h_auto_m1', 'anomaly_theos_tipumebtra_1h_auto_m1', 'anomaly_theos_vipuref3a_1h_auto_m1', 'anomaly_theos_tipuiputra_1h_auto_m1', 'anomaly_theos_tipupebpca_1h_auto_m1', 'anomaly_theos_vipuref4a_1h_auto_m1',
+'anomaly_theos_tipumaip1a_1h_auto_m1', 'anomaly_theos_tipubarpaa_1h_auto_m1', 'anomaly_theos_iru_status_word_b_1h_auto_m1', 'anomaly_theos_tipupebtra_1h_auto_m1', 'anomaly_theos_tipum1ts1a_1h_auto_m1', 'anomaly_theos_tipubarmsa_1h_auto_m1', 'anomaly_theos_tiputube3a_1h_auto_m1', 'anomaly_theos_tiputube1a_1h_auto_m1', 'anomaly_theos_tipum2bafa_1h_auto_m1', 'anomaly_theos_vipuref5a_1h_auto_m1',
+'anomaly_theos_v6rxa_1h_auto_m1', 'anomaly_theos_vipuref6a_1h_auto_m1', 'anomaly_theos_vipuref2a_1h_auto_m1', 'anomaly_theos_timer_gap_sup_1h_auto_m1', 'anomaly_theos_icssyna_1h_auto_m1', 'anomaly_theos_tiruavdtxb_1_1h_auto_m1', 'anomaly_theos_tiruavdtyb_1_1h_auto_m1', 'anomaly_theos_vipuref1a_1h_auto_m1', 'anomaly_theos_icssypa_1h_auto_m1', 'anomaly_theos_icssxna_1h_auto_m1',
+'anomaly_theos_tmontxa_1h_auto_m1', 'anomaly_theos_trxb_1h_auto_m1', 'anomaly_theos_icssxpa_1h_auto_m1', 'anomaly_theos_tdrumonob_1h_auto_m1', 'anomaly_theos_vanassrba_1h_auto_m1', 'anomaly_theos_vanassraa_1h_auto_m1', 'anomaly_theos_xtankpres_1h_auto_m1', 'anomaly_theos_tcvssraa_1h_auto_m1', 'anomaly_theos_v6txa_1h_auto_m1', 'anomaly_theos_tmontcl2_1h_auto_m1',
+'anomaly_theos_v5vpma_1h_auto_m1', 'anomaly_theos_tfetrw1a_1h_auto_m1', 'anomaly_theos_tth12a_1h_auto_m1', 'anomaly_theos_tth1a_1d_auto_m1', 'anomaly_theos_tmontcl16_1h_auto_m1', 'anomaly_theos_vthrefioca_1h_auto_m1', 'anomaly_theos_tmontcl9_1h_auto_m1',
+'anomaly_theos_tfetrw2a_1h_auto_m1', 'anomaly_theos_tfetrw4a_1h_auto_m1', 'anomaly_theos_angular_momentum_rw1_1h_auto_m1', 'anomaly_theos_angular_momentum_rw2_1h_auto_m1', 'anomaly_theos_angular_momentum_rw3_1h_auto_m1', 'anomaly_theos_tth18a_1h_auto_m1', 'anomaly_theos_tmontcl22_1h_auto_m1',
+'anomaly_theos_twderw3_1h_auto_m1', 'anomaly_theos_xtrspbspea_1h_auto_m1', 'anomaly_theos_vmanotwtab_1h_auto_m1', 'anomaly_theos_tfetrw3a_1h_auto_m1', 'anomaly_theos_twderw1_1h_auto_m1', 'anomaly_theos_vmonqpska_1h_auto_m1', 'anomaly_theos_tcvssrba_1h_auto_m1', 'anomaly_theos_imheltwtaa_1h_auto_m1',
+'anomaly_theos_tstrccda_1h_auto_m1', 'anomaly_theos_rstrt1qza_1h_auto_m1', 'anomaly_theos_vstrm5va_1h_auto_m1', 'anomaly_theos_vstrp5va_1h_auto_m1', 'anomaly_theos_tstrlensa_1h_auto_m1', 'anomaly_theos_tvpma_1h_auto_m1', 'anomaly_theos_tmonepcb_1h_auto_m1', 'anomaly_theos_tmoniosa_1h_auto_m1', 'anomaly_theos_tioca_1h_auto_m1', 'anomaly_theos_tiocb_1h_auto_m1',
+'anomaly_theos_v5tifa_1h_auto_m1', 'anomaly_theos_vm5viosa_1h_auto_m1', 'anomaly_theos_v5ioca_1h_auto_m1', 'anomaly_theos_v5re_1h_auto_m1', 'anomaly_theos_v2intioca_1h_auto_m1', 'anomaly_theos_xtrspaouta_1h_auto_m1', 'anomaly_theos_twderw4_1h_auto_m1', 'anomaly_theos_tipuipucva_1h_auto_m1', 'anomaly_theos_vstrvpela_1h_auto_m1',
+'anomaly_theos_tstreleca_1h_auto_m1', 'anomaly_theos_tipum1ts3a_1h_auto_m1', 'anomaly_theos_rstrt1qxya_1h_auto_m1', 'anomaly_theos_tipumaip2a_1h_auto_m1', 'anomaly_theos_tipum1ba1a_1h_auto_m1', 'anomaly_theos_tiruavdtzb_1_1h_auto_m1', 'anomaly_theos_model_only_counter_1h_auto_m1', 'anomaly_theos_vmanotwtaa_1h_auto_m1', 'anomaly_theos_twderw2_1h_auto_m1', 'anomaly_theos_xtrspaspea_1h_auto_m1'
+
+]
+
+==========================================================================================================================
